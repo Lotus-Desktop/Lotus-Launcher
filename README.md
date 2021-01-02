@@ -41,6 +41,6 @@ $ /usr/bin/node <...NodeJS Parameters> ~/Lotus/Launcher/build/launcher.js <...La
 * `--libs=<library_root>`: Specifies the location of the directory containing system-wide libraries. Default is `/usr/lib/lotus/`
 
 # Bugs
-If (when) you find bugs, please report them under the [Isses tab](https://github.com/Lotus-Desktop/Lotus-Launcher/issues)
+If (when) you find bugs, please report them under the [Issues tab](https://github.com/Lotus-Desktop/Lotus-Launcher/issues)
 
 Contributions are most welcome, however, be warned, the codebase is a mess.
